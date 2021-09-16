@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Interfaces Livres</title>
+	<atom:link href="/index.php/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Mon, 09 Aug 2021 08:24:21 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Ciclo de Palestras Login</title>
+		<link>/index.php/2021/08/09/ciclo-de-palestras-login/</link>
+					<comments>/index.php/2021/08/09/ciclo-de-palestras-login/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 08:17:39 +0000</pubDate>
+				<category><![CDATA[Em desenvolvimento]]></category>
+		<guid isPermaLink="false">/?p=1082</guid>
+
+					<description><![CDATA[As palestras e minicursos Log{In} são uma iniciativa do projeto Interfaces Livres para apresentar os trabalhos de profissionais do mercado e pesquisadores que atuam dentro dos temas de interesse do projeto e das mídias digitais. Trata-se de uma ação contínua do projeto vinculada ao canal do Youtube do Interfaces Livres.]]></description>
+										<content:encoded><![CDATA[
+<p>As palestras e minicursos Log{In} são uma iniciativa do projeto Interfaces Livres para apresentar os trabalhos de profissionais do mercado e pesquisadores que atuam dentro dos temas de interesse do projeto e das mídias digitais. Trata-se de uma ação contínua do projeto vinculada ao canal do Youtube do Interfaces Livres.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/08/09/ciclo-de-palestras-login/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Teste de Estilo de Aprendizagem Kolb</title>
+		<link>/index.php/2021/08/09/teste-de-estilo-de-aprendizagem-kolb/</link>
+					<comments>/index.php/2021/08/09/teste-de-estilo-de-aprendizagem-kolb/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 07:51:34 +0000</pubDate>
+				<category><![CDATA[Desenvolvidos]]></category>
+		<guid isPermaLink="false">/?p=1060</guid>
+
+					<description><![CDATA[O questionário idealizado por David A. Kolb tem como objetivo identificar e descrever diferentes estilos de aprendizagem.  O formulário desenvolvido apresenta os resultados do teste de Kolb e ajuda professores e alunos a escolher as melhores estratégias de ensino/aprendizagem.]]></description>
+										<content:encoded><![CDATA[
+<p>O questionário idealizado por David A. Kolb tem como objetivo identificar e descrever diferentes estilos de aprendizagem.  O formulário desenvolvido apresenta os resultados do teste de Kolb e ajuda professores e alunos a escolher as melhores estratégias de ensino/aprendizagem.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/08/09/teste-de-estilo-de-aprendizagem-kolb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Calculadora de Notas</title>
+		<link>/index.php/2021/08/09/calculadora-de-notas/</link>
+					<comments>/index.php/2021/08/09/calculadora-de-notas/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 07:45:03 +0000</pubDate>
+				<category><![CDATA[Desenvolvidos]]></category>
+		<guid isPermaLink="false">/?p=1053</guid>
+
+					<description><![CDATA[A calculadora de notas desenvolvida pelo Interfaces Livres agiliza o cálculo referente à média e exame final. O sistema informa o resultado da média das notas e informa se o estudante está aprovado ou não. Caso a nota seja insuficiente, a calculadora informa também quanto será necessário tirar no exame final para conquistar a aprovação.]]></description>
+										<content:encoded><![CDATA[
+<p>A calculadora de notas desenvolvida pelo Interfaces Livres agiliza o cálculo referente à média e exame final. O sistema informa o resultado da média das notas e informa se o estudante está aprovado ou não. Caso a nota seja insuficiente, a calculadora informa também quanto será necessário tirar no exame final para conquistar a aprovação.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/08/09/calculadora-de-notas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Podcast Ambiente 68</title>
+		<link>/index.php/2021/08/09/podcast-ambiente-68/</link>
+					<comments>/index.php/2021/08/09/podcast-ambiente-68/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 07:39:44 +0000</pubDate>
+				<category><![CDATA[Desenvolvidos]]></category>
+		<guid isPermaLink="false">/?p=1048</guid>
+
+					<description><![CDATA[O podcast desenvolvido pelo Interfaces Livres traz vários episódios no estilo “discussão e mesa redonda” acerca de temas relacionados com a produção de diferentes tipos de conteúdos, desde UI/UX até desenvolvimento de quadrinhos autorais e sobre a temas como a cultura LGBTQIA+ dentro das mídias digitais.]]></description>
+										<content:encoded><![CDATA[
+<p>O podcast desenvolvido pelo Interfaces Livres traz vários episódios no estilo “discussão e mesa redonda” acerca de temas relacionados com a produção de diferentes tipos de conteúdos, desde UI/UX até desenvolvimento de quadrinhos autorais e sobre a temas como a cultura LGBTQIA+ dentro das mídias digitais.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/08/09/podcast-ambiente-68/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PWA do Pontos de Vida</title>
+		<link>/index.php/2021/08/09/pwa-do-pontos-de-vida/</link>
+					<comments>/index.php/2021/08/09/pwa-do-pontos-de-vida/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 07:32:57 +0000</pubDate>
+				<category><![CDATA[Desenvolvidos]]></category>
+		<guid isPermaLink="false">/?p=1045</guid>
+
+					<description><![CDATA[Progressive web app criado com objetivo de incentivar a doação voluntária e regular de sangue. A aplicação possui vários recursos para promover a doação e motivar o doador. Registro de doações, através do QR Code, lembrete para a próxima doação, conquista de níveis, figurinhas informativas, formação de grupos de doação, entre outros.]]></description>
+										<content:encoded><![CDATA[
+<p><em>Progressive web app</em> criado com objetivo de incentivar a doação voluntária e regular de sangue. A aplicação possui vários recursos para promover a doação e motivar o doador. Registro de doações, através do QR Code, lembrete para a próxima doação, conquista de níveis, figurinhas informativas, formação de grupos de doação, entre outros.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/08/09/pwa-do-pontos-de-vida/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chatbot SEAD</title>
+		<link>/index.php/2021/07/11/chatbot-sead/</link>
+					<comments>/index.php/2021/07/11/chatbot-sead/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 00:42:00 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">/?p=791</guid>
+
+					<description><![CDATA[A equipe do Interfaces Livres está desenvolvendo em conjunto com a SEAD um chatbot para atender a algumas demandas e assim auxiliar a equipa da SEAD na solução de problemas e dúvidas com relação aos sistemas de ensino digitais.]]></description>
+										<content:encoded><![CDATA[
+<p>A equipe do Interfaces Livres está desenvolvendo em conjunto com a SEAD um chatbot para atender a algumas demandas e assim auxiliar a equipa da SEAD na solução de problemas e dúvidas com relação aos sistemas de ensino digitais.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/07/11/chatbot-sead/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Socorro Pontos de Vida</title>
+		<link>/index.php/2021/07/11/socorro-pontos-de-vida/</link>
+					<comments>/index.php/2021/07/11/socorro-pontos-de-vida/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 00:35:52 +0000</pubDate>
+				<category><![CDATA[Em desenvolvimento]]></category>
+		<guid isPermaLink="false">/?p=789</guid>
+
+					<description><![CDATA[A Socorro é um chatbot em desenvolvimento pelo interfaces livres. Tem o objetivo de incentivar e facilitar a doação de sangue na cidade de João Pessoa. Idealizada para representar uma das trabalhadoras do Hemocentro, Socorro já está disponível através do telegram e traz formas de agendar lembretes e convidar até grupos de amigos para realizar &#8230; <p class="link-more"><a href="/index.php/2021/07/11/socorro-pontos-de-vida/" class="more-link">Continue lendo<span class="screen-reader-text"> "Socorro Pontos de Vida"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>A Socorro é um chatbot em desenvolvimento pelo interfaces livres. Tem o objetivo de incentivar e facilitar a doação de sangue na cidade de João Pessoa. Idealizada para representar uma das trabalhadoras do Hemocentro, Socorro já está disponível através do telegram e traz formas de agendar lembretes e convidar até grupos de amigos para realizar as doações.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/07/11/socorro-pontos-de-vida/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Caminho Livre UFPB</title>
+		<link>/index.php/2021/07/11/caminho-livre-ufpb/</link>
+					<comments>/index.php/2021/07/11/caminho-livre-ufpb/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 00:28:25 +0000</pubDate>
+				<category><![CDATA[Desenvolvidos]]></category>
+		<guid isPermaLink="false">/?p=783</guid>
+
+					<description><![CDATA[O projeto Caminho Livre surgiu a partir da percepção da não existência de informações relacionadas à acessibilidade dos ambientes da UFPB assim como em demais sistemas de localização e transporte. Visto isso, foi iniciado o projeto com objetivo de disponibilizar essas informações de forma ágil para o público.]]></description>
+										<content:encoded><![CDATA[
+<p>O projeto Caminho Livre surgiu a partir da percepção da não existência de informações relacionadas à acessibilidade dos ambientes da UFPB assim como em demais sistemas de localização e transporte. Visto isso, foi iniciado o projeto com objetivo de disponibilizar essas informações de forma ágil para o público.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/07/11/caminho-livre-ufpb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Minetest Server</title>
+		<link>/index.php/2021/05/30/para-testar/</link>
+					<comments>/index.php/2021/05/30/para-testar/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 30 May 2021 10:46:17 +0000</pubDate>
+				<category><![CDATA[Em desenvolvimento]]></category>
+		<guid isPermaLink="false">/?p=407</guid>
+
+					<description><![CDATA[Minetest Server Nós realizamos a instalação do software livre Minetest Server em um servidor dedicado através das&#160;instruções obtidas na documentação oficial. Foi necessário a atualização da distribuição Linux do servidor, mas deu tudo certo. O servidor dedicado vem com a configuração padrão para iniciar junto com o boot do sistema, mas para isso dar certo &#8230; <p class="link-more"><a href="/index.php/2021/05/30/para-testar/" class="more-link">Continue lendo<span class="screen-reader-text"> "Minetest Server"</span></a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="407" class="elementor elementor-407" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-b3ba1f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3ba1f1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-07207c9" data-id="07207c9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-36ed4fa elementor-widget elementor-widget-heading" data-id="36ed4fa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Minetest Server</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-498dfff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="498dfff" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1b8052a" data-id="1b8052a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fd5c03c elementor-widget elementor-widget-image" data-id="fd5c03c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="817" height="603" src="/wp-content/uploads/2021/05/Sem-titulo-2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2021/05/Sem-titulo-2.png 817w, /wp-content/uploads/2021/05/Sem-titulo-2-300x221.png 300w, /wp-content/uploads/2021/05/Sem-titulo-2-768x567.png 768w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0244aaa" data-id="0244aaa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7479753 elementor-widget elementor-widget-text-editor" data-id="7479753" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Nós realizamos a instalação do software livre Minetest Server em um servidor dedicado através das instruções obtidas na documentação oficial. Foi necessário a atualização da distribuição Linux do servidor, mas deu tudo certo.</p>
+<p>O servidor dedicado vem com a configuração padrão para iniciar junto com o boot do sistema, mas para isso dar certo é preciso seguir as configurações padrão desse formato, que incluem o posicionamento adequado para os arquivos de configuração e instalação.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/05/30/para-testar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Olá, mundo!</title>
+		<link>/index.php/2021/05/18/ola-mundo/</link>
+					<comments>/index.php/2021/05/18/ola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 13:54:35 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+										<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/05/18/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

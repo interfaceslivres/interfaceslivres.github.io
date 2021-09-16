@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Em desenvolvimento &#8211; Interfaces Livres</title>
+	<atom:link href="/index.php/category/emdesenvolvimento/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Mon, 09 Aug 2021 08:24:21 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Ciclo de Palestras Login</title>
+		<link>/index.php/2021/08/09/ciclo-de-palestras-login/</link>
+					<comments>/index.php/2021/08/09/ciclo-de-palestras-login/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Aug 2021 08:17:39 +0000</pubDate>
+				<category><![CDATA[Em desenvolvimento]]></category>
+		<guid isPermaLink="false">/?p=1082</guid>
+
+					<description><![CDATA[As palestras e minicursos Log{In} são uma iniciativa do projeto Interfaces Livres para apresentar os trabalhos de profissionais do mercado e pesquisadores que atuam dentro dos temas de interesse do projeto e das mídias digitais. Trata-se de uma ação contínua do projeto vinculada ao canal do Youtube do Interfaces Livres.]]></description>
+										<content:encoded><![CDATA[
+<p>As palestras e minicursos Log{In} são uma iniciativa do projeto Interfaces Livres para apresentar os trabalhos de profissionais do mercado e pesquisadores que atuam dentro dos temas de interesse do projeto e das mídias digitais. Trata-se de uma ação contínua do projeto vinculada ao canal do Youtube do Interfaces Livres.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/08/09/ciclo-de-palestras-login/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Socorro Pontos de Vida</title>
+		<link>/index.php/2021/07/11/socorro-pontos-de-vida/</link>
+					<comments>/index.php/2021/07/11/socorro-pontos-de-vida/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 00:35:52 +0000</pubDate>
+				<category><![CDATA[Em desenvolvimento]]></category>
+		<guid isPermaLink="false">/?p=789</guid>
+
+					<description><![CDATA[A Socorro é um chatbot em desenvolvimento pelo interfaces livres. Tem o objetivo de incentivar e facilitar a doação de sangue na cidade de João Pessoa. Idealizada para representar uma das trabalhadoras do Hemocentro, Socorro já está disponível através do telegram e traz formas de agendar lembretes e convidar até grupos de amigos para realizar &#8230; <p class="link-more"><a href="/index.php/2021/07/11/socorro-pontos-de-vida/" class="more-link">Continue lendo<span class="screen-reader-text"> "Socorro Pontos de Vida"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>A Socorro é um chatbot em desenvolvimento pelo interfaces livres. Tem o objetivo de incentivar e facilitar a doação de sangue na cidade de João Pessoa. Idealizada para representar uma das trabalhadoras do Hemocentro, Socorro já está disponível através do telegram e traz formas de agendar lembretes e convidar até grupos de amigos para realizar as doações.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/07/11/socorro-pontos-de-vida/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Minetest Server</title>
+		<link>/index.php/2021/05/30/para-testar/</link>
+					<comments>/index.php/2021/05/30/para-testar/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 30 May 2021 10:46:17 +0000</pubDate>
+				<category><![CDATA[Em desenvolvimento]]></category>
+		<guid isPermaLink="false">/?p=407</guid>
+
+					<description><![CDATA[Minetest Server Nós realizamos a instalação do software livre Minetest Server em um servidor dedicado através das&#160;instruções obtidas na documentação oficial. Foi necessário a atualização da distribuição Linux do servidor, mas deu tudo certo. O servidor dedicado vem com a configuração padrão para iniciar junto com o boot do sistema, mas para isso dar certo &#8230; <p class="link-more"><a href="/index.php/2021/05/30/para-testar/" class="more-link">Continue lendo<span class="screen-reader-text"> "Minetest Server"</span></a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="407" class="elementor elementor-407" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-b3ba1f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3ba1f1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-07207c9" data-id="07207c9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-36ed4fa elementor-widget elementor-widget-heading" data-id="36ed4fa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Minetest Server</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-498dfff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="498dfff" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1b8052a" data-id="1b8052a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fd5c03c elementor-widget elementor-widget-image" data-id="fd5c03c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="817" height="603" src="/wp-content/uploads/2021/05/Sem-titulo-2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2021/05/Sem-titulo-2.png 817w, /wp-content/uploads/2021/05/Sem-titulo-2-300x221.png 300w, /wp-content/uploads/2021/05/Sem-titulo-2-768x567.png 768w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0244aaa" data-id="0244aaa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7479753 elementor-widget elementor-widget-text-editor" data-id="7479753" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Nós realizamos a instalação do software livre Minetest Server em um servidor dedicado através das instruções obtidas na documentação oficial. Foi necessário a atualização da distribuição Linux do servidor, mas deu tudo certo.</p>
+<p>O servidor dedicado vem com a configuração padrão para iniciar junto com o boot do sistema, mas para isso dar certo é preciso seguir as configurações padrão desse formato, que incluem o posicionamento adequado para os arquivos de configuração e instalação.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2021/05/30/para-testar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
