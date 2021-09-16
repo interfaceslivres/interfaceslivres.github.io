@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre Interfaces Livres	</title>
+	<atom:link href="http://150.165.178.251/interfaceslivres/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://150.165.178.251/interfaceslivres</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Tue, 18 May 2021 13:54:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
+		<link>http://150.165.178.251/interfaceslivres/index.php/2021/05/18/ola-mundo/#comment-1</link>
+
+		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 13:54:35 +0000</pubDate>
+		<guid isPermaLink="false">http://150.165.178.251/interfaceslivres/?p=1#comment-1</guid>
+
+					<description><![CDATA[Olá, isso é um comentário.
+Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.
+Avatares de comentaristas vêm a partir do &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Olá, isso é um comentário.<br />
+Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.<br />
+Avatares de comentaristas vêm a partir do <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
